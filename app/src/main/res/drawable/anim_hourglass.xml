@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass0"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass1"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass2"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass3"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass4"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass5"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass6"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass7"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass8"/>
+    <item
+        android:duration="100"
+        android:drawable="@drawable/hourglass9"/>
+
+</animation-list>

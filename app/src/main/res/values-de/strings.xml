@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyVote</string>
+    <string name="action_load_studyvote">Loading StudyVote...</string>
+    <string name="action_checkConnection">Check connection...</string>
+    <string name="action_errorLoading">StudyVote not available, please try again later</string>
+    <string name="action_finishLoading">Finished loading StudyVote</string>
+</resources>
